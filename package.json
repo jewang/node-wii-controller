@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/andrew/node-wii-controller.git"
+    "url": "git://github.com/jewang/node-wii-controller.git"
   },
   "keywords": [
     "wii",
